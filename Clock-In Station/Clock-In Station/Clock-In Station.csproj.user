@@ -4,7 +4,7 @@
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
     <RevDeBugCompilerPath>c:\users\orlando\appdata\local\microsoft\visualstudio\16.0_96788e25\extensions\mbbnqsza.4ij\tmcc\</RevDeBugCompilerPath>
     <CustomAfterMicrosoftCommonTargets>c:\users\orlando\appdata\local\microsoft\visualstudio\16.0_96788e25\extensions\mbbnqsza.4ij\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
-    <RevDeBugActive>True</RevDeBugActive>
+    <RevDeBugActive>false</RevDeBugActive>
     <SaveMetadataAsync>true</SaveMetadataAsync>
     <RevDeBugDisableNuget>true</RevDeBugDisableNuget>
     <RevDeBugMetadataPath>D:\Documents\RevDeBug\Clock-In Station\Metadata\\</RevDeBugMetadataPath>
