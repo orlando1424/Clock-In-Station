@@ -1,9 +1,10 @@
 ﻿<Properties StartupConfiguration="{20C15A0B-E25C-45C6-91AF-110403C93A4A}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Clock-In Station/Pages/Index.cshtml">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Clock-In Station/Pages/Privacy.cshtml">
     <Files>
-      <File FileName="Clock-In Station/Pages/Index.cshtml" Line="9" Column="5" />
+      <File FileName="Clock-In Station/Pages/Index.cshtml" Line="19" Column="1" />
       <File FileName="Clock-In Station/Program.cs" Line="16" Column="1" />
-      <File FileName="Clock-In Station/Pages/Shared/_Layout.cshtml" />
+      <File FileName="Clock-In Station/Pages/Shared/_Layout.cshtml" Line="40" Column="41" />
+      <File FileName="Clock-In Station/Pages/Privacy.cshtml" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -12,7 +13,7 @@
             <Node name="Clock-In Station" expanded="True">
               <Node name="Pages" expanded="True">
                 <Node name="Shared" expanded="True" />
-                <Node name="Index.cshtml" selected="True" />
+                <Node name="Privacy.cshtml" selected="True" />
               </Node>
             </Node>
           </Node>
