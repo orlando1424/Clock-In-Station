@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
+    <RevDeBugCompilerPath>c:\users\orlando\appdata\local\microsoft\visualstudio\16.0_96788e25\extensions\mbbnqsza.4ij\tmcc\</RevDeBugCompilerPath>
+    <CustomAfterMicrosoftCommonTargets>c:\users\orlando\appdata\local\microsoft\visualstudio\16.0_96788e25\extensions\mbbnqsza.4ij\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
+    <RevDeBugActive>false</RevDeBugActive>
+    <SaveMetadataAsync>true</SaveMetadataAsync>
+    <RevDeBugDisableNuget>true</RevDeBugDisableNuget>
+    <RevDeBugMetadataPath>D:\Documents\RevDeBug\Clock-In Station\Metadata\\</RevDeBugMetadataPath>
+    <RevDeBugStateStorageType>Continuous</RevDeBugStateStorageType>
+    <PublishWithRevDeBug>false</PublishWithRevDeBug>
+    <RecorderAddress>127.0.0.1</RecorderAddress>
+    <RecorderTCPPort>42742</RecorderTCPPort>
+  </PropertyGroup>
+</Project>
