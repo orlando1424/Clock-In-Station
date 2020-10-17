@@ -1,0 +1,36 @@
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/appsettings.Development.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/appsettings.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Properties/launchSettings.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.deps.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.runtimeconfig.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.runtimeconfig.dev.json
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.dll
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.pdb
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.Views.dll
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/bin/Debug/netcoreapp3.1/Clock-In Station.Views.pdb
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.csprojAssemblyReference.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.AssemblyInfoInputs.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.AssemblyInfo.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.csproj.CoreCompileInputs.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.MvcApplicationPartsAssemblyInfo.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.RazorAssemblyInfo.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.RazorAssemblyInfo.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.TagHelpers.input.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.TagHelpers.output.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.RazorCoreGenerate.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/Error.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/Index.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/Privacy.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_Layout.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/Shared/_ValidationScriptsPartial.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewImports.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Razor/Pages/_ViewStart.cshtml.g.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.RazorTargetAssemblyInfo.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.RazorTargetAssemblyInfo.cs
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.Views.pdb
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/staticwebassets/Clock-In Station.StaticWebAssets.Manifest.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/staticwebassets/Clock-In Station.StaticWebAssets.xml
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.dll
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.pdb
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.genruntimeconfig.cache
+/Users/orlandolopez/Documents/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/Debug/netcoreapp3.1/Clock-In Station.csproj.CopyComplete
