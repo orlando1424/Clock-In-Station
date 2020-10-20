@@ -72,3 +72,4 @@ D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.genruntimeconfig.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csproj.CopyComplete
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\RdbLog.txt
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csprojAssemblyReference.cache
