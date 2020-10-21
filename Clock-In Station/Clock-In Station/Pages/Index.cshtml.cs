@@ -4,6 +4,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
+using Microsoft.Extensions.FileSystemGlobbing.Internal.PathSegments;
 using Microsoft.Extensions.Logging;
 
 namespace Clock_In_Station.Pages
@@ -17,9 +18,14 @@ namespace Clock_In_Station.Pages
             _logger = logger;
         }
 
+        public string CurrentDateTime()
+        {
+            string current;
+            return current = DateTime.Now.ToString("dddd, MMM dd yyyy, hh:mm:ss");
+           }
         public void OnGet()
         {
-
+            CurrentDateTime();
         }
     }
 }
