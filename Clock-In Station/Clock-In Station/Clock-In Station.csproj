@@ -5,4 +5,12 @@
     <RootNamespace>Clock_In_Station</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Images\" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\Images\blankperson.png" />
+  </ItemGroup>
+
 </Project>

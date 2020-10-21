@@ -5,22 +5,25 @@
 }
 
 <div class="text-center">
-    <h1 class="display-4">Please Clock-In</h1>
+    @*<h1 class="display-4">Please Clock-In</h1>*@
     @*<p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>*@
+
+    <img src="~/Images/blankperson.png" alt="blank person" style="width:200px;height:200px;" />
 </div>
 
 @*Form area*@
 
+<br /> 
+
 <div class="text-center">
 
     <form method="post">
-        <label for="employeeid">Employee ID:</label>
-        <input id="employeeid" type="text" />
-
-        <div class="text-center">
+        @*<label for="employeeid">Employee ID:</label>*@
+        <input id="employeeid" type="text" value="Input Employee ID" />
+        <br />
         <input type="button" class="btn btn-dark" value="Clock-in"/>
         <input type="button" class="btn btn-dark" value="Clock-out"/>
-         </div>
+         
     </form>
 
     
