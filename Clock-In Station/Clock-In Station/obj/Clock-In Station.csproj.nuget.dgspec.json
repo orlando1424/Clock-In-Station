@@ -1,25 +1,30 @@
 {
   "format": 1,
   "restore": {
-    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/Clock-In Station.csproj": {}
+    "D:\\Repos\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station.csproj": {}
   },
   "projects": {
-    "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/Clock-In Station.csproj": {
+    "D:\\Repos\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/Clock-In Station.csproj",
+        "projectUniqueName": "D:\\Repos\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station.csproj",
         "projectName": "Clock-In Station",
-        "projectPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/Clock-In Station.csproj",
-        "packagesPath": "/Users/orlandolopez/.nuget/packages/",
-        "outputPath": "/Users/orlandolopez/Documents/Documents - Orlando’s MacBook Air/Repos/Clock-In-Station/Clock-In Station/Clock-In Station/obj/",
+        "projectPath": "D:\\Repos\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station.csproj",
+        "packagesPath": "C:\\Users\\Orlando\\.nuget\\packages\\",
+        "outputPath": "D:\\Repos\\Clock-In Station\\Clock-In Station\\Clock-In Station\\Clock-In Station\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
-          "/Users/orlandolopez/.config/NuGet/NuGet.Config"
+          "C:\\Users\\Orlando\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
         }
       }
     }

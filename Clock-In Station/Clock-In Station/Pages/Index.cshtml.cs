@@ -22,7 +22,7 @@ namespace Clock_In_Station.Pages
         {
             string current;
             return current = DateTime.Now.ToString("dddd, MMM dd yyyy, hh:mm:ss");
-           }
+        }
         public void OnGet()
         {
             CurrentDateTime();
