@@ -4,10 +4,11 @@ using System.Text;
 
 namespace Employee.Data
 {
-    public class Employee
+  public class Employee
     {
-        public int employeeID { get; set; }
-        public string firstName { get; set; }
-        public string lastName { get; set; }
+        public int Id { get; set; }
+        public string Name { get; set; }
+
+
     }
 }
