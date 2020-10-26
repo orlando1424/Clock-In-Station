@@ -13,4 +13,8 @@
     <None Include="wwwroot\Images\blankperson.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Employee.Data\Employee.Data.csproj" />
+  </ItemGroup>
+
 </Project>
