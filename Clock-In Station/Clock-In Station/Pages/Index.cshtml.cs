@@ -7,16 +7,19 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.Extensions.FileSystemGlobbing.Internal.PathSegments;
 using Microsoft.Extensions.Logging;
 using Employee.Data;
+using Clock_In_Station.Pages.Redirects;
 
 namespace Clock_In_Station.Pages
 {
     public class IndexModel : PageModel
     {
         private readonly ILogger<IndexModel> _logger;
+        private IEmployeeData empData;
 
-        public IndexModel(ILogger<IndexModel> logger)
+        public IndexModel(ILogger<IndexModel> logger, IEmployeeData empData)
         {
             _logger = logger;
+            this.empData = empData;
         }
 
         public string CurrentDateTime()
@@ -27,6 +30,15 @@ namespace Clock_In_Station.Pages
         public void OnGet()
         {
             CurrentDateTime();
+        }
+
+       public IActionResult OnPost(int employeeid)
+        {
+            if (empData.Clockin(employeeid))
+            {
+                return RedirectToPage(@"./Redirects/Clockin");
+            }
+            return StatusCode(404);
         }
     }
 }
