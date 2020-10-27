@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
-    <RevDeBugActive>True</RevDeBugActive>
+    <RevDeBugActive>false</RevDeBugActive>
     <MvcRazorCompileOnPublish>false</MvcRazorCompileOnPublish>
     <RevDeBugCompilerPath>C:\USERS\ORLANDO\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\16.0_96788E25\EXTENSIONS\MBBNQSZA.4IJ\tmcc\</RevDeBugCompilerPath>
     <CustomAfterMicrosoftCommonTargets>C:\USERS\ORLANDO\APPDATA\LOCAL\MICROSOFT\VISUALSTUDIO\16.0_96788E25\EXTENSIONS\MBBNQSZA.4IJ\tmcc\RevDeBug.ImportAfter.targets</CustomAfterMicrosoftCommonTargets>
