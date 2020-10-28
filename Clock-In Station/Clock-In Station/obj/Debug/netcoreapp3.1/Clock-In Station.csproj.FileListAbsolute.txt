@@ -84,6 +84,9 @@ D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Clock-In Station.pdb
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Clock-In Station.Views.dll
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Clock-In Station.Views.pdb
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Employee.Data.dll
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Employee.Data.pdb
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csprojAssemblyReference.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.AssemblyInfoInputs.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.AssemblyInfo.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csproj.CoreCompileInputs.cache
@@ -95,7 +98,9 @@ D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.RazorCoreGenerate.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\List.cshtml.g.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Redirects\Clockin.cshtml.g.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Redirects\Clockout.cshtml.g.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
@@ -104,14 +109,10 @@ D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.RazorTargetAssemblyInfo.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.RazorTargetAssemblyInfo.cs
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.Views.pdb
+D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csproj.CopyComplete
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\staticwebassets\Clock-In Station.StaticWebAssets.Manifest.cache
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\staticwebassets\Clock-In Station.StaticWebAssets.xml
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.dll
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.pdb
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.genruntimeconfig.cache
-D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csproj.CopyComplete
 D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\RdbLog.txt
-D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Clock-In Station.csprojAssemblyReference.cache
-D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Employee.Data.dll
-D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\bin\Debug\netcoreapp3.1\Employee.Data.pdb
-D:\Repos\Clock-In Station\Clock-In Station\Clock-In Station\Clock-In Station\obj\Debug\netcoreapp3.1\Razor\Pages\Redirects\Clockin.cshtml.g.cs

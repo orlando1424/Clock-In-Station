@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.30517.126
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Clock-In Station", "Clock-In Station\Clock-In Station.csproj", "{20C15A0B-E25C-45C6-91AF-110403C93A4A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Employee.Data", "Employee.Data\Employee.Data.csproj", "{8DF3C487-A329-48A5-B91E-BF2E574E768B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Employee.Data", "Employee.Data\Employee.Data.csproj", "{8DF3C487-A329-48A5-B91E-BF2E574E768B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
